@@ -9,7 +9,10 @@ public class PersonTest {
 		
 		Person personLee = new Person("Lee", 20);
 		personLee.showInfo();
+		System.out.println(personLee);
 		
+		Person p = personLee.getself();
+		System.out.println(p);		
 	}
 
 }
