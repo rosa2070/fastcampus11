@@ -31,5 +31,20 @@ public class MyDate {
 		this.year = year;
 	}
 	
+	public boolean isValid() {
+		if {
+			
+		}
+		else {
+			
+		}
+	}
+	
+	if ( month < 1 || month > 12) {
+		isValid = false;
+	}
+	else
+		this.month = month;
+	
 	
 }
